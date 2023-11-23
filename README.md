@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @Gopikrishna-10
+- 👋 Hi, I’m @Gopikrishna
 - 👀 I’m interested in full stack developing
-- 🌱 I’m currently learning vscode
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Javascript
+
 
 <!---
 Gopikrishna-10/Gopikrishna-10 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
